@@ -1,0 +1,16 @@
+The Survey app can be used by any University that needs to collect information from students. This app will use a simple form with drop down menus and short answer as easy for data collection.
+
+How to build this app
+I design this app by using a Google Form and then connecting it to AppSheet via the Google Forms AppSheet add-on. AppSheet will recognize the form’s question types and implemented the corresponding column types in the Editor and the app. The icon and background of the app can be modified by changing the UX style. 
+1.First, I used Google Form to design the survey. Some dropdown menu question will be used as those types of questions are common in Google Form and it will be easily to translate to AppSheet with the add-on. I have design my app in a way where the app will look and provide different type of questions which will depend on the answer from the users. This can be done by using the Advanced Editor in the AppSheet. A require answer will also be used in other for users to move to the next question and this can be edit in the Advance Editor.
+2.Beside a drop down menu, the users will also be able to input their answer base on different type of questions.
+3.Page breaks which will be used in order to separate the questions. Also, it will help the users have to better view or navigate to the next set of questions. This can be done in the Google Form when I was adding the question to the sheet.
+
+Here is the link for viewing how data will store in Google Form
+
+https://docs.google.com/spreadsheets/d/1Kvim6ThkJGSCpGat4-zPWLd0lV13BZlVzCoqfnYtjHU/edit?usp=sharing
+
+Here is the install link of the app. The users can either run the app on a web browser or on their mobile devices
+
+http://appsheet.com/newshortcut/c5c74ecc-bfeb-4872-b519-c6b5af5b7f00
+
